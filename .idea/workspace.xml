@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="314183e2-00ac-4768-90ce-920688739387" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20JMYP4w5dInbCf2o5de2CxWtMG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="314183e2-00ac-4768-90ce-920688739387" name="Default Changelist" comment="" />
+      <created>1635758284129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635758284129</updated>
+      <workItem from="1635758287628" duration="592000" />
+      <workItem from="1635761637879" duration="1118000" />
+      <workItem from="1635764960956" duration="1110000" />
+      <workItem from="1635766179965" duration="145000" />
+      <workItem from="1635769955021" duration="1778000" />
+      <workItem from="1635771791045" duration="1700000" />
+      <workItem from="1635773613617" duration="815000" />
+      <workItem from="1635776345820" duration="1847000" />
+      <workItem from="1635778230241" duration="1535000" />
+      <workItem from="1635780040428" duration="457000" />
+      <workItem from="1635794681344" duration="242000" />
+      <workItem from="1636019189247" duration="400000" />
+      <workItem from="1636032116829" duration="4000" />
+      <workItem from="1636359534193" duration="914000" />
+      <workItem from="1636361377862" duration="1669000" />
+      <workItem from="1636363265545" duration="632000" />
+      <workItem from="1636368705621" duration="1784000" />
+      <workItem from="1636370630869" duration="395000" />
+      <workItem from="1636645988998" duration="247000" />
+      <workItem from="1636966336860" duration="1795000" />
+      <workItem from="1636968257643" duration="1758000" />
+      <workItem from="1636970071061" duration="23000" />
+      <workItem from="1636970099590" duration="1774000" />
+      <workItem from="1636972320037" duration="1862000" />
+      <workItem from="1636974286003" duration="1560000" />
+      <workItem from="1637002990747" duration="38000" />
+      <workItem from="1637526326947" duration="139000" />
+      <workItem from="1637528171712" duration="61000" />
+      <workItem from="1637568061606" duration="1472000" />
+      <workItem from="1637570635469" duration="1691000" />
+      <workItem from="1637572445211" duration="1778000" />
+      <workItem from="1637574272077" duration="1284000" />
+      <workItem from="1637576095336" duration="601000" />
+      <workItem from="1637578480757" duration="1722000" />
+      <workItem from="1637584815837" duration="419000" />
+      <workItem from="1637662458883" duration="1345000" />
+      <workItem from="1638035318211" duration="1282000" />
+      <workItem from="1638037134920" duration="1760000" />
+      <workItem from="1638038950356" duration="873000" />
+      <workItem from="1638046555488" duration="1563000" />
+      <workItem from="1638048482049" duration="1042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="314" y="23" key="#PHP" timestamp="1635765812019">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="314" y="23" key="#PHP/0.23.1280.724@0.23.1280.724" timestamp="1635765812019" />
+    <state x="461" y="326" key="NewPhpFileDialog" timestamp="1638048916950">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="461" y="326" key="NewPhpFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1638048916950" />
+    <state x="461" y="315" key="NewPhpFileDialog/0.23.1280.717@0.23.1280.717" timestamp="1637579962985" />
+    <state x="296" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1638048496816">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state x="296" y="219" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1637528171582" />
+    <state x="296" y="218" key="com.intellij.ide.util.TipDialog/0.23.1280.714@0.23.1280.714" timestamp="1638048496816" />
+    <state x="296" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.716@0.23.1280.716" timestamp="1638035318480" />
+    <state x="296" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.717@0.23.1280.717" timestamp="1638038950599" />
+    <state x="296" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.722@0.23.1280.722" timestamp="1637584817077" />
+    <state x="296" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.724@0.23.1280.724" timestamp="1637662458974" />
+    <state x="296" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.725@0.23.1280.725" timestamp="1635773626325" />
+    <state x="296" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.726@0.23.1280.726" timestamp="1635769968002" />
+  </component>
+</project>
